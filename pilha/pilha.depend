@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1410891532 source:/home/aluno/pilha/main.c
+	"pilha.h"
+	<stdio.h>
+
+1410891466 /home/aluno/pilha/pilha.h
+
+1410891878 source:/home/aluno/pilha/pilha.c
+	"pilha.h"
+	<stdio.h>
+
+1413236648 source:c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\pilha\main.c
+	"pilha.h"
+	<stdio.h>
+
+1413223152 c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\pilha\pilha.h
+
+1410892420 source:c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\pilha\pilha.c
+	"pilha.h"
+	<stdio.h>
+
